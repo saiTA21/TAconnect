@@ -1,1 +1,1 @@
-from .connect_sources import connect_redshift, connect_snowflake
+from .connect_sources import connect_redshift
